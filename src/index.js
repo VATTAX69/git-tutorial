@@ -3,4 +3,4 @@ console.log("version1")
 
 console.log("test alias for cm")
 console.log("test origin/master branch")
-console.log("version 1.4")
+console.log("version 1.5")
